@@ -4,4 +4,5 @@ title: Home
 ---
 
 # Temp
-Hello World!
+Hello CNN Lab :)
+

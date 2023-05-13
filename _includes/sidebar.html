@@ -10,10 +10,10 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    <a class="sidebar-nav-item{% if page.title == 'Research' %} active{% endif %}" href="{{ Research | absolute_url }}">Research</a>
-    <a class="sidebar-nav-item{% if page.title == 'People' %} active{% endif %}" href="{{ People | absolute_url }}">People</a>
-    <a class="sidebar-nav-item{% if page.title == 'Publications' %} active{% endif %}" href="{{ Publications | absolute_url }}">Publications</a>
-    <a class="sidebar-nav-item{% if page.title == 'Contact' %} active{% endif %}" href="{{ Contact | absolute_url }}">Contact</a>
+    <a class="sidebar-nav-item{% if page.title == 'Research' %} active{% endif %}" href="{{ site.baseurl }}research/}">Research</a>
+    <a class="sidebar-nav-item{% if page.title == 'People' %} active{% endif %}" href="{{ site.baseurl }}people/}">People</a>
+    <a class="sidebar-nav-item{% if page.title == 'Publications' %} active{% endif %}" href="{{{ site.baseurl }}publications/}">Publications</a>
+    <a class="sidebar-nav-item{% if page.title == 'Contact' %} active{% endif %}" href="{{ site.baseurl }}contact/}">Contact</a>
 
 <!--     {% comment %}
       The code below dynamically generates a sidebar nav of pages with

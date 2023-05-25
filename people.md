@@ -7,7 +7,7 @@ title: People
   Professor
 </p>
 
-![kwon Prof] (![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b) {: width="40%"",height="60%""}#
+(![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b)
 
 ### Jeong-Tae Kwon, Ph.D.
 

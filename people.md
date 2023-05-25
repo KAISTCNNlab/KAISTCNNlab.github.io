@@ -12,9 +12,9 @@ title: People
 ![Kwon.P](![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b){: width=”20”“,height=”20””}
 
 ### Professional career
-2023 -          Assistant professor, Brain and Cognitive Science, KAIST
-2016 - 2022     Postdoctoral fellow, Brain and Cognitive Science, MIT
-2008 – 2010     Research Scientist, Vivozon Inc. (pharmaceutical)
+* 2023 -          Assistant professor, Brain and Cognitive Science, KAIST
+* 2016 - 2022     Postdoctoral fellow, Brain and Cognitive Science, MIT
+* 2008 – 2010     Research Scientist, Vivozon Inc. (pharmaceutical)
 
 ### Educational background
 * 2015            M.S./Ph.D.,Biological Sciences, KAIST

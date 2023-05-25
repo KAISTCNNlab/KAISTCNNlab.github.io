@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Welcome
+title: Cognitive Neural Network Laboratory
 ---
 
-### Cognitive Neural Network Laboratory
+
 
 How do we come to love or hate someone? 
 

@@ -9,7 +9,7 @@ title: People
 
 ## Jeong-Tae Kwon, Ph.D.
 
-![Kwon.P](![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b){: width=”20”“,height=”20””}
+![Kwon.P](![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b)
 
 ### Professional career
 * 2023 -          Assistant professor, Brain and Cognitive Science, KAIST

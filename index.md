@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Welcome
 ---
 
 ### Cognitive Neural Network Laboratory

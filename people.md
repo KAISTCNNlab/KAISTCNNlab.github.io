@@ -1,29 +1,38 @@
 ---
 layout: page
-title: people
+title: People
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Professor
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+![kwon Prof] (![IMG_8578](https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/104f1f11-2b81-4e98-b5d4-867de949bb1b) {: width="40%"",height="60%""}#
 
-There are currently two themes built on Poole:
+### Jeong-Tae Kwon, Ph.D.
 
+## Professional career
+2023 -          Assistant professor, Brain and Cognitive Science, KAIST
+2016 - 2022     Postdoctoral fellow, Brain and Cognitive Science, MIT
+2008 – 2010     Research Scientist, Vivozon Inc. (pharmaceutical)
+
+## Educational background
+2015            M.S./Ph.D.,Biological Sciences, KAIST
+2008            M.A. Biological psychology, Korea Univ.
+2006            B.A. Sociology / Psychology, Korea Univ
+
+## 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Publications
+Kwon et al.,An amygdala circuit that suppresses social engagement, Nature (2021)
+Kwon et al., Optogenetic activation of presynaptic inputs in lateral amygdala forms associative fear memory, Learning and Memory (2014) 
+Kim* andKwon* et al., Memory recall and modifications by activating neurons with elevated CREB, Nature neuroscience(2013, *equal contribution)
+Kwon et al., Brain region-specific activity patterns after recent or remote memory retrieval of auditory conditioned fear, Learning and Memory (2012)
+Kwon et al.,Cornering the Fear Engram: Long-Term Synaptic Changes in the Lateral Nucleus of the Amygdala Following Fear Conditioning, Journal of Neuroscience(2009)
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Contact information
+Office: N5, 2261-1   |   Phone: 042-350-6515   |   E-mail: jtkwon@kaist.ac.k

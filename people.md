@@ -31,3 +31,18 @@ title: People
 
 ### Contact information
 Office: N5, 2261-1   |   Phone: 042-350-6515   |   E-mail: jtkwon@kaist.ac.kr
+
+
+
+<p class="message">
+  Ph.D student
+</p>
+
+
+<p class="message">
+  Master's student
+</p>
+
+## Minji Edina Kim
+
+<img src="https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/79234c3c-54e1-46e1-8747-6e7842c9701f" width="180" height="240">

@@ -20,14 +20,14 @@ title: People
 ### Educational background
 * 2015            M.S./Ph.D.,Biological Sciences, KAIST
 * 2008            M.A. Biological psychology, Korea Univ.
-* 2006            B.A. Sociology / Psychology, Korea Univ
+* 2006            B.A. Sociology / Psychology, Korea Univ.
 
 ### Publications
-* Kwon et al.,An amygdala circuit that suppresses social engagement, Nature (2021)
+* Kwon et al., An amygdala circuit that suppresses social engagement, Nature (2021)
 * Kwon et al., Optogenetic activation of presynaptic inputs in lateral amygdala forms associative fear memory, Learning and Memory (2014) 
-* Kim* andKwon* et al., Memory recall and modifications by activating neurons with elevated CREB, Nature neuroscience(2013, *equal contribution)
-* Kwon et al., Brain region-specific activity patterns after recent or remote memory retrieval of auditory conditioned fear, Learning and Memory (2012)
-* Kwon et al.,Cornering the Fear Engram: Long-Term Synaptic Changes in the Lateral Nucleus of the Amygdala Following Fear Conditioning, Journal of Neuroscience(2009)
+* Kim* and Kwon* et al., Memory recall and modifications by activating neurons with elevated CREB, Nature neuroscience (2013, *equal contribution)
+* Kwon et al., Brain region-specific activity patterns after recent or remote memory retrieval of auditory conditioned fear, Learning and Memory  (2012)
+* Kwon et al., Cornering the Fear Engram: Long-Term Synaptic Changes in the Lateral Nucleus of the Amygdala Following Fear Conditioning, Journal of Neuroscience (2009)
 
 ### Contact information
 Office: N5, 2261-1   |   Phone: 042-350-6515   |   E-mail: jtkwon@kaist.ac.kr

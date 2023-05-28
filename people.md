@@ -13,14 +13,14 @@ title: People
 <!-- ![Kwon Prof]("https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/e4aac91d-64b9-4e5d-92e9-cbc5b21cec48"=) -->
 
 ### Professional career
-* 2023 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant professor, Brain and Cognitive Science, KAIST
+* 2023 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant professor, Brain and Cognitive Science, KAIST
 * 2016 - 2022     Postdoctoral fellow, Brain and Cognitive Science, MIT
 * 2008 - 2010     Research Scientist, Vivozon Inc. (pharmaceutical)
 
 ### Educational background
-* 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.S./Ph.D.,Biological Sciences, KAIST
-* 2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Biological psychology, Korea Univ.
-* 2006&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A. Sociology / Psychology, Korea Univ.
+* 2015 M.S./Ph.D.,Biological Sciences, KAIST
+* 2008 M.A. Biological psychology, Korea Univ.
+* 2006 B.A. Sociology / Psychology, Korea Univ.
 
 ### Publications
 * Kwon et al., An amygdala circuit that suppresses social engagement, Nature (2021)
@@ -53,7 +53,7 @@ Office: N5, 2261-1   |   Phone: 042-350-6515   |   E-mail: jtkwon@kaist.ac.kr
 <img src="https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/79234c3c-54e1-46e1-8747-6e7842c9701f" width="180" height="240">
 
 ### Educational background
-* 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BSc Psychology, University of Warwick 
+* 2021 BSc Psychology, University of Warwick 
 
 I am first year graduate student, interested and conducting research in neural circuits and neuromodulators involved in sleeping behaviors and stress. My ultimate target for my research is to construct a robust evidence base to inform the development of treatments for brain diseases related to sleep dysregulation. 
 

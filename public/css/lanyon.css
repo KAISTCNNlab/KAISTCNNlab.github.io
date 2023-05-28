@@ -196,11 +196,25 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
+
+.sidebar-nav-subitem.active,
+a.sidebar-nav-subitem:hover,
+a.sidebar-nav-subitem:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+
 @media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
   }
   .sidebar-nav-item {
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+  }
+  .sidebar-nav-subitem {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }

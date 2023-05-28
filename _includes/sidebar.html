@@ -11,16 +11,15 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
     <a class="sidebar-nav-item{% if page.title == 'research' %} active{% endif %}" href="{{ site.github.repo }}/research">Research</a>
-<!--     <a class="sidebar-nav-item{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people">People</a> -->
     
     <!-- People item with indented sub-items -->
     <a class="sidebar-nav-item{% if page.title == 'people' %} active{% endif %}">People</a>
-    <div style="padding-left: 20px;">
-      <a class="sidebar-nav-subitem{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people/professor">Professor</a>
-      <a class="sidebar-nav-subitem{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people/student">Students</a>
+<!--     <div style="padding-left: 20px;"> -->
+    <a class="sidebar-nav-subitem{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people/professor">Professor</a>
+    <a class="sidebar-nav-subitem{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people/student">Students</a>
 <!--       <a href="{{ site.github.repo }}/people/professor">Professor</a>
         <a href="{{ site.github.repo }}/people/student">Student</a> -->
-    </div>
+<!--     </div> -->
 
     <a class="sidebar-nav-item{% if page.title == 'publications' %} active{% endif %}" href="{{ site.github.repo }}/publications">Publications</a>
     <a class="sidebar-nav-item{% if page.title == 'contact' %} active{% endif %}" href="{{ site.github.repo }}/contact">Contact</a>

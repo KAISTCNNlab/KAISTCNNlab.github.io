@@ -11,7 +11,17 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
     <a class="sidebar-nav-item{% if page.title == 'research' %} active{% endif %}" href="{{ site.github.repo }}/research">Research</a>
-    <a class="sidebar-nav-item{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people">People</a>
+<!--     <a class="sidebar-nav-item{% if page.title == 'people' %} active{% endif %}" href="{{ site.github.repo }}/people">People</a> -->
+    
+    <!-- The People Nav Item is now a list to contain subcategories -->
+    <div class="sidebar-nav-item{% if page.title == 'people' %} active{% endif %}">
+      <a href="{{ site.github.repo }}/people">People</a>
+      <ul>
+        <li><a href="{{ site.github.repo }}/people/professor">Professor</a></li>
+        <li><a href="{{ site.github.repo }}/people/student">Student</a></li>
+      </ul>
+    </div>
+    
     <a class="sidebar-nav-item{% if page.title == 'publications' %} active{% endif %}" href="{{ site.github.repo }}/publications">Publications</a>
     <a class="sidebar-nav-item{% if page.title == 'contact' %} active{% endif %}" href="{{ site.github.repo }}/contact">Contact</a>
 

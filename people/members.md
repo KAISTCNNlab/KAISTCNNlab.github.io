@@ -33,6 +33,6 @@ I am first year graduate student, interested and conducting research in neural c
 <img src="https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/7cd2c50f-aa31-4d1b-9254-916fffc85422" width="180" height="240">
 
 ### Educational background
-*
+* 2021 Biological Science, University of Sungkyunkwan
 
 Hoyong is first-year graduate student. He is interested in the circuit that regulates sleep states under social stress. Hoyong wants to uncover how neuronal interactions create high-level brain functions and what factors cause abnormal disruptions.

@@ -32,7 +32,7 @@ I am Ph.D student. My research interest is neural circuits and regulating sensor
 
 I am first year graduate student, interested and conducting research in neural circuits and neuromodulators involved in sleeping behaviors and stress. My ultimate target for my research is to construct a robust evidence base to inform the development of treatments for brain diseases related to sleep dysregulation. 
 
---
+---
 
 ## Hoyoung Choi
 

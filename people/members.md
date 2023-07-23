@@ -9,8 +9,14 @@ title: Members
 
 ## Sejin Kim
 
+<img src="https://github.com/KAISTCNNlab/KAISTCNNlab.github.io/assets/133527239/854546ee-d4b2-4a53-a104-20fe02f8c2a5" width="180" height="240">
+
 ### Educational background
-*
+* 2021 Bio and Brain Engineering, KAIST
+* 2023 Bio and Brain Engineering, Master, KAIST
+
+I am Ph.D student. My research interest is neural circuits and regulating sensory process. My research goal is revealing mehanism of the sensory information process and developing the methodology for interpretation
+
 
 
 <p class="message">
@@ -26,7 +32,7 @@ title: Members
 
 I am first year graduate student, interested and conducting research in neural circuits and neuromodulators involved in sleeping behaviors and stress. My ultimate target for my research is to construct a robust evidence base to inform the development of treatments for brain diseases related to sleep dysregulation. 
 
----
+--
 
 ## Hoyoung Choi
 
